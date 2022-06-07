@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/new_chime" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
